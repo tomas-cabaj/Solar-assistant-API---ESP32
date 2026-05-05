@@ -60,3 +60,7 @@ Uses Basic Auth.
 - API must be accessible in local network
 - Uses HTTP (no HTTPS)
 - Optimized for low memory
+
+
+## Author
+Tomáš Cabaj TMK 2026
