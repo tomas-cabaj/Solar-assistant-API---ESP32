@@ -51,5 +51,4 @@ Používá Basic Auth.
 ## Author
 Tomáš Cabaj TMK 2026
 
-
 ![ESP32C3OLED](https://github.com/tomas-cabaj/Solar-assistant-API---ESP32/blob/main/img/TestEsp32SolarAssistance.png)
