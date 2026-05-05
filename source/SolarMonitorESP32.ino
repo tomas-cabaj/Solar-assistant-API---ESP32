@@ -13,6 +13,10 @@
 // EN: must be preserved and this license must be included.
 // EN: Any modifications must be clearly marked.
 
+//-------------------------------------------------------------------------
+// ESP32 JSON BOARD
+// https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
+//-------------------------------------------------------------------------
 
 // ================= OLED =================
 // CZ: Inicializace OLED displeje přes HW I2C (SCL=6, SDA=5)
