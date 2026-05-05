@@ -1,4 +1,4 @@
-# 📡 ESP32-C3 + OLED + Solar Assistant API
+# 📡 ESP32-C3 OLED + Solar Assistant API
 
 This project displays real-time data from a Solar Assistant system on a small OLED display (0.42") using an ESP32-C3 microcontroller over WiFi.
 
@@ -8,8 +8,7 @@ The device periodically fetches data from a local API and presents it across rot
 
 ## 🧰 Hardware
 
-- ESP32-C3 (WiFi-enabled microcontroller)
-- OLED display SSD1306 (I2C, 128x64 px)
+- ESP32-C3 (WiFi-enabled microcontroller) OLED display SSD1306 (I2C, 128x64 px)
 - Solar Assistant (local API server)
 
 ---
