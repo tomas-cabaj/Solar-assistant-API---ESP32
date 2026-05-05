@@ -47,3 +47,6 @@ Používá Basic Auth.
 - API musí být dostupné v síti
 - používá HTTP (bez HTTPS validace)
 - optimalizováno pro nízkou paměť
+
+## Author
+Tomáš Cabaj TMK 2026
