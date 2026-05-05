@@ -1,11 +1,10 @@
-# 📡 ESP32-C3 + OLED + Solar Assistant API
+# 📡 ESP32-C3 OLED + Solar Assistant API
 Projekt slouží k zobrazení dat ze systému Solar Assistant na malém OLED displeji (0.42") pomocí mikrokontroleru ESP32-C3 přes WiFi.
 Zařízení periodicky načítá data z API a zobrazuje je ve formě rotujících obrazovek (SOC, výkon panelů, baterie, spotřeba, síť).
 
 ---
 ## 🧰 Použitý hardware
-- ESP32-C3 (WiFi mikrokontroler)
-- OLED displej SSD1306 (I2C, 128x64 px)
+- ESP32-C3 (WiFi mikrokontroler) OLED displej SSD1306 (I2C, 128x64 px)
 - Solar Assistant (lokální API server)
 ---
 
