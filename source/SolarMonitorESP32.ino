@@ -3,6 +3,17 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
+// ================= LICENSE =================
+// CZ: Tento kód je licencován pod Apache License 2.0.
+// CZ: Při použití nebo úpravě musí být zachována informace o autorovi (copyright)
+// CZ: a přiložena tato licence. Změny v kódu musí být označeny.
+//
+// EN: This code is licensed under the Apache License 2.0.
+// EN: When using or modifying this code, the original author attribution (copyright)
+// EN: must be preserved and this license must be included.
+// EN: Any modifications must be clearly marked.
+
+
 // ================= OLED =================
 // CZ: Inicializace OLED displeje přes HW I2C (SCL=6, SDA=5)
 // EN: OLED display initialization via HW I2C (SCL=6, SDA=5)
